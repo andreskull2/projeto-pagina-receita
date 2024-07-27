@@ -32,15 +32,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Travelgram é uma página de aplicativo de viagens, que simula a interface do aplicativo Instagram.
+Página de receita é uma página web simples.
 
-- [Acesse o projeto finalizado, online](https://andreskull2.github.io/travelgram/)
+- [Acesse o projeto finalizado, online](https://andreskull2.github.io/projeto-pagina-receita/)
 
 - [Assistir aulas](https://www.rocketseat.com.br/formacao/fullstack)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1360315496868719817/perfil-de-viagens). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1360315130061454535). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
